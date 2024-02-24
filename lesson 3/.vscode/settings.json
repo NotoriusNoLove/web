@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/pyproject.toml": true,
+        "*.toml": true,
+        "pyproject.toml": true,
+        "**/*.toml": true,
+        "**/*.lock": true,
+        ".vscode": true
+    },
+    "explorerExclude.backup": {}
+}
